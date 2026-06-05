@@ -1,0 +1,37 @@
+<svg width="900" height="92" viewBox="0 0 900 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="92" rx="22" fill="#0b1220"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">
+    <g transform="translate(28 24)">
+      <rect width="88" height="44" rx="12" fill="#f97316"/>
+      <text x="44" y="28" text-anchor="middle" fill="white">Java</text>
+    </g>
+    <g transform="translate(130 24)">
+      <rect width="98" height="44" rx="12" fill="#7c3aed"/>
+      <text x="49" y="28" text-anchor="middle" fill="white">Kotlin</text>
+    </g>
+    <g transform="translate(242 24)">
+      <rect width="112" height="44" rx="12" fill="#16a34a"/>
+      <text x="56" y="28" text-anchor="middle" fill="white">Node.js</text>
+    </g>
+    <g transform="translate(368 24)">
+      <rect width="92" height="44" rx="12" fill="#22c55e"/>
+      <text x="46" y="28" text-anchor="middle" fill="#052e16">Paper</text>
+    </g>
+    <g transform="translate(474 24)">
+      <rect width="108" height="44" rx="12" fill="#2563eb"/>
+      <text x="54" y="28" text-anchor="middle" fill="white">Velocity</text>
+    </g>
+    <g transform="translate(596 24)">
+      <rect width="116" height="44" rx="12" fill="#5865f2"/>
+      <text x="58" y="28" text-anchor="middle" fill="white">Discord.js</text>
+    </g>
+    <g transform="translate(726 24)">
+      <rect width="76" height="44" rx="12" fill="#0891b2"/>
+      <text x="38" y="28" text-anchor="middle" fill="white">MySQL</text>
+    </g>
+    <g transform="translate(816 24)">
+      <rect width="56" height="44" rx="12" fill="#475569"/>
+      <text x="28" y="28" text-anchor="middle" fill="white">Git</text>
+    </g>
+  </g>
+</svg>
