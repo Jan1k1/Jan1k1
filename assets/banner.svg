@@ -1,38 +1,40 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111f"/>
-      <stop offset="0.46" stop-color="#0f2a22"/>
-      <stop offset="1" stop-color="#111827"/>
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0b2a1d"/>
+      <stop offset="1" stop-color="#07111f"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 92) rotate(154) scale(380 210)">
-      <stop stop-color="#22c55e" stop-opacity="0.45"/>
+    <radialGradient id="green" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(915 84) rotate(153) scale(460 260)">
+      <stop stop-color="#22c55e" stop-opacity="0.58"/>
       <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
     </radialGradient>
-    <filter id="blur" x="-50" y="-50" width="1300" height="400" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="32"/>
-    </filter>
+    <radialGradient id="blue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 245) rotate(-25) scale(310 160)">
+      <stop stop-color="#2563eb" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
-  <g filter="url(#blur)" opacity="0.75">
-    <circle cx="192" cy="70" r="110" fill="#2563eb" fill-opacity="0.24"/>
-    <circle cx="1030" cy="224" r="140" fill="#22c55e" fill-opacity="0.2"/>
+  <rect width="1200" height="300" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="32" fill="url(#green)"/>
+  <rect width="1200" height="300" rx="32" fill="url(#blue)"/>
+  <g opacity="0.12">
+    <path d="M78 65H1122" stroke="#dcfce7"/>
+    <path d="M78 235H1122" stroke="#dcfce7"/>
+    <path d="M168 34V266" stroke="#dcfce7"/>
+    <path d="M1040 34V266" stroke="#dcfce7"/>
+    <path d="M0 204C136 174 250 182 371 207C520 239 627 258 790 215C937 176 1051 151 1200 181" stroke="#dcfce7" stroke-width="2"/>
   </g>
-  <path d="M0 239C132 201 220 218 356 238C492 258 568 280 733 244C898 208 1025 166 1200 199V300H0V239Z" fill="#020617" fill-opacity="0.38"/>
-  <g opacity="0.18">
-    <path d="M90 46H1110" stroke="#d1fae5"/>
-    <path d="M90 254H1110" stroke="#d1fae5"/>
-    <path d="M92 47V254" stroke="#d1fae5"/>
-    <path d="M1108 47V254" stroke="#d1fae5"/>
+  <g transform="translate(86 58)">
+    <rect width="566" height="184" rx="24" fill="#020617" fill-opacity="0.42" stroke="#34d399" stroke-opacity="0.34"/>
+    <text x="34" y="65" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="76" font-weight="850" letter-spacing="-2">Jan1k</text>
+    <text x="38" y="107" fill="#bbf7d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="750" letter-spacing="2">CONFIGURATOR / OPTIMIZER / DEVELOPER</text>
+    <text x="38" y="151" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="520">Paper, Velocity, Discord bots, lag fixes</text>
   </g>
-  <text x="92" y="125" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2">Jan1k</text>
-  <text x="95" y="170" fill="#bbf7d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" letter-spacing="2">MINECRAFT INFRASTRUCTURE</text>
-  <text x="96" y="213" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="500">Paper plugins, Velocity tooling, Discord bots, optimization</text>
-  <g transform="translate(820 72)">
-    <rect x="0" y="0" width="282" height="156" rx="18" fill="#020617" fill-opacity="0.56" stroke="#34d399" stroke-opacity="0.42"/>
-    <text x="26" y="47" fill="#f8fafc" font-family="Consolas, SFMono-Regular, monospace" font-size="22" font-weight="700">5 TPS to 20 TPS</text>
-    <text x="26" y="86" fill="#bbf7d0" font-family="Consolas, SFMono-Regular, monospace" font-size="18">100+ players online</text>
-    <text x="26" y="124" fill="#93c5fd" font-family="Consolas, SFMono-Regular, monospace" font-size="18">Java / Kotlin / Node.js</text>
+  <g transform="translate(730 50)">
+    <rect x="0" y="0" width="355" height="200" rx="24" fill="#020617" fill-opacity="0.68" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="30" y="48" fill="#86efac" font-family="Consolas, SFMono-Regular, monospace" font-size="17" font-weight="700">$ stabilize server</text>
+    <text x="30" y="89" fill="#f8fafc" font-family="Consolas, SFMono-Regular, monospace" font-size="26" font-weight="800">5 TPS to 20 TPS</text>
+    <text x="30" y="128" fill="#cbd5e1" font-family="Consolas, SFMono-Regular, monospace" font-size="18">300+ players online</text>
+    <text x="30" y="162" fill="#93c5fd" font-family="Consolas, SFMono-Regular, monospace" font-size="18">Java / Kotlin / Node.js</text>
   </g>
 </svg>
