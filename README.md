@@ -18,8 +18,8 @@ Main project right now: SnifferStudio and ExploitSniffer, focused on proxy-level
 | area | what I do |
 | --- | --- |
 | Configuration | Server setup, plugin config, proxy setup, permissions, ranks, gameplay flow. |
-| Optimization | TPS recovery, packet cleanup, database-backed features, and lag fixes. |
-| Development | Paper plugins, Velocity plugins, Discord.js bots, and staff tools. |
+| Optimization | Full server and plugin optimization so servers can handle hundreds of players. |
+| Development | Paper and Velocity work for SMPs, FFA, Box servers, TridentBox, moderation, reports, rewards, and gameplay features. |
 | Security | Exploit filtering, suspicious jar scanning, mute sync, and moderation tooling. |
 
 ## public repos
