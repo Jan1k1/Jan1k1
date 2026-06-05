@@ -27,11 +27,11 @@
     <path d="M1108 47V254" stroke="#d1fae5"/>
   </g>
   <text x="92" y="125" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2">Jan1k</text>
-  <text x="95" y="170" fill="#bbf7d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" letter-spacing="2">MINECRAFT SERVER SYSTEMS</text>
+  <text x="95" y="170" fill="#bbf7d0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" letter-spacing="2">MINECRAFT INFRASTRUCTURE</text>
   <text x="96" y="213" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="500">Paper plugins, Velocity tooling, Discord bots, optimization</text>
   <g transform="translate(820 72)">
     <rect x="0" y="0" width="282" height="156" rx="18" fill="#020617" fill-opacity="0.56" stroke="#34d399" stroke-opacity="0.42"/>
-    <text x="26" y="47" fill="#f8fafc" font-family="Consolas, SFMono-Regular, monospace" font-size="22" font-weight="700">17 TPS to 20 TPS</text>
+    <text x="26" y="47" fill="#f8fafc" font-family="Consolas, SFMono-Regular, monospace" font-size="22" font-weight="700">5 TPS to 20 TPS</text>
     <text x="26" y="86" fill="#bbf7d0" font-family="Consolas, SFMono-Regular, monospace" font-size="18">100+ players online</text>
     <text x="26" y="124" fill="#93c5fd" font-family="Consolas, SFMono-Regular, monospace" font-size="18">Java / Kotlin / Node.js</text>
   </g>

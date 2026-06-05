@@ -5,14 +5,14 @@
 <p align="center">
   <a href="https://jan1k.org"><img src="https://img.shields.io/badge/portfolio-jan1k.org-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/Jan1k1"><img src="https://img.shields.io/badge/github-Jan1k1-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Minecraft-server%20systems-16a34a?style=for-the-badge" alt="Minecraft server systems">
+  <img src="https://img.shields.io/badge/Minecraft-infrastructure-16a34a?style=for-the-badge" alt="Minecraft infrastructure">
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Java, Kotlin, Node.js, Paper, Velocity, Discord.js, MySQL, Git">
+  <img src="./assets/stack.svg" alt="Java, Kotlin, Node.js">
 </p>
 
-I build Minecraft server systems, Paper plugins, Velocity tools, and Discord integrations. Most of my work sits around performance, moderation, automation, and server-side features that need to survive real players.
+I build Minecraft infrastructure, Paper plugins, Velocity tooling, and Discord integrations. Most of my work sits around performance, moderation, automation, and features that need to survive real players.
 
 My portfolio has the full project history: [jan1k.org](https://jan1k.org)
 
