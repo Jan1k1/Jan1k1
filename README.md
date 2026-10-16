@@ -1,4 +1,4 @@
-# Jan Duchaj
+# Jan1k
 
 **Minecraft software engineer** based in Czechia. I build Paper and Velocity plugins and libraries, work directly with the Minecraft protocol, and optimize servers to run at a stable 20 TPS with hundreds of players.
 
@@ -43,3 +43,4 @@
 ## Contact
 
 [jan1k.org](https://jan1k.org)
+
