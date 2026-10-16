@@ -14,11 +14,11 @@ Minecraft developer from Czechia. I build Paper and Velocity plugins and librari
 | --- | --- |
 | [Peakstone](https://peakstone.app) | Marketplace for Minecraft plugins. Free downloads, subscriptions and one-time purchases from reviewed authors. SDK: [peakstone-sdk](https://github.com/Jan1k1/peakstone-sdk). |
 | [MCAnalytics](https://mcanalytics.org) | Growth analytics for Minecraft networks. Shows where players come from, who returns and what they spend. Loader: [mcanalytics-loader](https://github.com/Jan1k1/mcanalytics-loader). |
-| [displaymotion](https://displaymotion.peakstone.app) | Java library to animate item, block and text displays on Paper 1.21.4+. Packets only, no resource pack. [Source](https://github.com/Jan1k1/displaymotion). |
 
 ## Open source
 
-I contribute to [PacketEvents](https://github.com/retrooper/packetevents).
+- [displaymotion](https://displaymotion.peakstone.app): Java library to animate item, block and text displays on Paper 1.21.4+. Packets only, no resource pack. [Source](https://github.com/Jan1k1/displaymotion).
+- I contribute to [PacketEvents](https://github.com/retrooper/packetevents).
 
 ## What I do for servers
 
@@ -26,9 +26,9 @@ I contribute to [PacketEvents](https://github.com/retrooper/packetevents).
 | --- | --- |
 | Development | Paper and Velocity plugins for SMPs, FFA, Box servers, moderation, reports and rewards. |
 | Optimization | Server and plugin tuning. Best case: 5 TPS back to a stable 20. |
-| Security | Packet exploit filtering, suspicious jar scanning, mute sync. |
 | Setup | Proxy, permissions, ranks and gameplay flow. |
 
-4+ years around Minecraft servers. 2+ years writing code.
+5+ years around Minecraft servers. 3+ years writing code. I know Minecraft packets and the protocol well, and I work with them every day.
 
 Work with me: [jan1k.org](https://jan1k.org)
+
