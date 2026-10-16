@@ -1,46 +1,63 @@
-# Jan1k
+<h1 align="center">Jan1k</h1>
 
-**Minecraft software engineer** based in Czechia. I build Paper and Velocity plugins and libraries, work directly with the Minecraft protocol, and optimize servers to run at a stable 20 TPS with hundreds of players.
+<p align="center">
+  Minecraft developer from Czechia.<br>
+  Paper and Velocity plugins, packet-level features, and servers that hold 20 TPS with hundreds of players.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-jan1k.org-111827?style=flat-square)](https://jan1k.org)
-[![Peakstone](https://img.shields.io/badge/peakstone.app-111827?style=flat-square)](https://peakstone.app)
-[![MCAnalytics](https://img.shields.io/badge/mcanalytics.org-111827?style=flat-square)](https://mcanalytics.org)
+<p align="center">
+  <a href="https://jan1k.org"><img src="https://img.shields.io/badge/portfolio-jan1k.org-111827?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://peakstone.app"><img src="https://img.shields.io/badge/Peakstone-peakstone.app-111827?style=for-the-badge" alt="Peakstone"></a>
+  <a href="https://mcanalytics.org"><img src="https://img.shields.io/badge/MCAnalytics-mcanalytics.org-111827?style=for-the-badge" alt="MCAnalytics"></a>
+</p>
 
-## Experience
+## About
 
-5+ years in the Minecraft server ecosystem, 3+ years as a developer. Strong working knowledge of Minecraft packets and the protocol, used daily in production code.
+5+ years in the Minecraft server world and 3+ years writing code. I understand Minecraft packets and the protocol, and I use them every day in production.
 
-## Focus areas
+I use AI to its maximum, and I keep the code at the highest quality. AI makes me faster. Review, testing and clean code keep the result professional.
+
+## Certificates
+
+- **MineAcademy**: Java
+- **MineAcademy**: Minecraft plugin development
+
+## Projects
+
+<a href="https://peakstone.app">
+  <img src="https://peakstone.app/opengraph-image?b621272fa9ecf21e" alt="Peakstone" width="480">
+</a>
+
+**[Peakstone](https://peakstone.app)** is a Minecraft plugin marketplace. It has free downloads, subscriptions and one-time purchases from reviewed authors. Licensing SDK: [peakstone-sdk](https://github.com/Jan1k1/peakstone-sdk).
+
+<a href="https://mcanalytics.org">
+  <img src="https://mcanalytics.org/images/og-card-v7.jpg" alt="MCAnalytics" width="480">
+</a>
+
+**[MCAnalytics](https://mcanalytics.org)** is growth analytics for Minecraft networks. It shows where players come from, who returns and what they spend. Open source loader: [mcanalytics-loader](https://github.com/Jan1k1/mcanalytics-loader).
+
+## Open source
+
+- **[displaymotion](https://displaymotion.peakstone.app)**: Java library to animate item, block and text displays on Paper 1.21.4+. Packets only, no resource pack. [Source](https://github.com/Jan1k1/displaymotion).
+- Contributor to **[PacketEvents](https://github.com/retrooper/packetevents)**.
+
+## What I do
 
 | area | what I deliver |
 | --- | --- |
 | Plugin development | Paper and Velocity plugins for SMP, FFA and Box servers: moderation, reports, rewards, gameplay systems. |
-| Protocol and packets | Packet-based features built on PacketEvents. No main thread work, no resource packs. |
+| Packets and protocol | Packet-based features built on PacketEvents. No main thread work. |
 | Performance | Server and plugin profiling and tuning. Best result: 5 TPS restored to a stable 20. |
-| Infrastructure | Proxy setup, permissions, ranks and gameplay flow. |
-
-## Projects
-
-| project | description |
-| --- | --- |
-| [Peakstone](https://peakstone.app) | Minecraft plugin marketplace. Free downloads, subscriptions and one-time purchases from reviewed authors. Licensing SDK: [peakstone-sdk](https://github.com/Jan1k1/peakstone-sdk). |
-| [MCAnalytics](https://mcanalytics.org) | Growth analytics for Minecraft networks: where players come from, who returns, what they spend. Open source loader: [mcanalytics-loader](https://github.com/Jan1k1/mcanalytics-loader). |
-
-## Open source
-
-- [displaymotion](https://displaymotion.peakstone.app): Java library for animating item, block and text displays on Paper 1.21.4+ with packets only. [Source](https://github.com/Jan1k1/displaymotion).
-- Contributor to [PacketEvents](https://github.com/retrooper/packetevents).
+| Server setup | Proxy, permissions, ranks and gameplay flow. |
 
 ## Tech
 
-![Java](https://img.shields.io/badge/Java-f97316?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-7c3aed?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=flat-square)
-![Paper](https://img.shields.io/badge/Paper-111827?style=flat-square)
-![Velocity](https://img.shields.io/badge/Velocity-111827?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,nodejs,gradle,git,github,cloudflare&theme=dark" alt="Tech stack">
+</p>
+
+Paper · Velocity · PacketEvents
 
 ## Contact
 
 [jan1k.org](https://jan1k.org)
-
